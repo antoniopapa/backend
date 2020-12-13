@@ -3,8 +3,32 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73882e32-5d83-4d0c-89b5-cb22020e5c26" name="Default Changelist" comment="" />
+    <list default="true" id="73882e32-5d83-4d0c-89b5-cb22020e5c26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +37,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -170,12 +197,24 @@
       <workItem from="1607684568760" duration="1576000" />
       <workItem from="1607766257241" duration="14000" />
       <workItem from="1607804760521" duration="835000" />
-      <workItem from="1607857520631" duration="381000" />
+      <workItem from="1607857520631" duration="575000" />
+      <workItem from="1607868255488" duration="163000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="-1534" y="422" width="1610" height="1090" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1607603665156">
@@ -215,10 +254,10 @@
       <screen x="-1920" y="240" width="1920" height="1200" />
     </state>
     <state x="-1170" y="610" key="com.intellij.database.actions.DdlActions$CreateObject$1.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@-1920.240.1920.1200" timestamp="1607603682216" />
-    <state x="-1553" y="240" width="1508" height="2674" key="search.everywhere.popup.inPresentationMode" timestamp="1607804797001">
-      <screen x="-1920" y="240" width="1920" height="1200" />
+    <state x="489" y="0" width="1582" height="3208" key="search.everywhere.popup.inPresentationMode" timestamp="1607868264844">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="-1553" y="240" width="1508" height="2674" key="search.everywhere.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@-1920.240.1920.1200" timestamp="1607804797001" />
-    <state x="489" y="0" width="1582" height="3208" key="search.everywhere.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1607003170281" />
+    <state x="489" y="0" width="1582" height="3208" key="search.everywhere.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1607868264844" />
   </component>
 </project>
