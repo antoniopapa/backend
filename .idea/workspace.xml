@@ -22,12 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73882e32-5d83-4d0c-89b5-cb22020e5c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="73882e32-5d83-4d0c-89b5-cb22020e5c26" name="Default Changelist" comment="Adding start.sh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,8 +194,16 @@
       <workItem from="1607766257241" duration="14000" />
       <workItem from="1607804760521" duration="835000" />
       <workItem from="1607857520631" duration="575000" />
-      <workItem from="1607868255488" duration="163000" />
+      <workItem from="1607868255488" duration="653000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding start.sh">
+      <created>1607868431082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607868431082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +219,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding start.sh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding start.sh" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1534" y="422" width="1610" height="1090" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1607603665156">
@@ -250,6 +258,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="818" height="606" key="SwitcherDM.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1607623770787" />
+    <state x="380" y="148" key="Vcs.Push.Dialog.v2.inPresentationMode" timestamp="1607868434180">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="380" y="148" key="Vcs.Push.Dialog.v2.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1607868434180" />
     <state x="-1170" y="610" key="com.intellij.database.actions.DdlActions$CreateObject$1.inPresentationMode" timestamp="1607603682216">
       <screen x="-1920" y="240" width="1920" height="1200" />
     </state>
